@@ -1,6 +1,7 @@
-# Students Management System
+# Students Management System (CRUD Estudiantes)
 
-Student Management System is a CRUD application to Create, Read, Update and Delete data of students. Angular framework and Angular Material component library are used to build a good web interface and modify components.
+Student management system developed with Angular and Angular Material. It is a CRUD application that allows Creating, Reading, Updating, and Deleting student data, using a modern web interface and a simulated backend with JSON Server.
+
 
 #### Commands to install and run dependencies
 
